@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Avery!
 
-<!--
-**averycolburn/averycolburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩 About Me
 
-Here are some ideas to get you started:
+I went to **Cornell** and got my BS in **Electrical and Computer Engineering** with a minor in **Computer Science**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a **backend developer at PMG** with proven experience building and maintaining robust, scalable services in an Agile environment. I specialize in designing and implementing RESTful APIs and working across diverse database environments.
+
+---
+
+## 🛠️ Technical Skills
+
+My expertise spans multiple languages, frameworks, and database types, allowing me to contribute effectively to heterogeneous tech stacks.
+
+| Category | Skills / Technologies |
+| :--- | :--- |
+| **Backend Languages** | Javascript, Python, PHP |
+| **Databases** | PostgreSQL, MongoDB |
+| **APIs & Integration** | RESTful API Design, 3rd Party API Integration |
+| **DevOps & Process** | CI/CD Pipelines, Git/GitHub, Agile/Scrum |
+| **System Design** | Scalability, Database Schema Design, Microservices Concepts |
+
+---
+
+## 🤝 Connect With Me
+
+* **LinkedIn:** https://www.linkedin.com/in/averycolburn
