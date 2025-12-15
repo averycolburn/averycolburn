@@ -12,7 +12,7 @@
 - 🔭 I'm currently working on various full-stack projects
 - 🌱 I'm continuously learning and exploring new technologies
 - 💡 I enjoy solving complex problems and building efficient systems
-- 🎯 2024 Goals: Contribute more to open source projects and expand my technical expertise
+- 🎯 Current Goals: Contribute more to open source projects and expand my technical expertise
 - ⚡ Fun fact: I love diving deep into new programming languages and frameworks
 
 ---
