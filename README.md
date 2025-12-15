@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍�� About Me
+### 👨‍💻 About Me
 
 - 🔭 I'm currently working on various full-stack projects
 - 🌱 I'm continuously learning and exploring new technologies
