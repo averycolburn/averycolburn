@@ -19,11 +19,9 @@ I am a **backend developer at PMG** with proven experience building and maintain
 
 | Category | Skills / Technologies |
 | :--- | :--- |
-| **Backend Languages** | ![My Skills](https://skillicons.dev/icons?i=py,js,php,matlab,ocaml,nodejs,java)|
+| **Backend Languages** | ![My Skills](https://skillicons.dev/icons?i=py,nodejs,js,php,matlab,ocaml,java)|
 | **Databases** |![My Databases](https://skillicons.dev/icons?i=mongodb,postgres) |
-| **Tools** |![My Databases](https://skillicons.dev/icons?i=postman,docker,github)|
-| **APIs & Integration** | RESTful API Design, 3rd Party API Integration |
-| **DevOps & Process** | CI/CD Pipelines, Git/GitHub, Agile/Scrum |
+| **Tools** |![My Databases](https://skillicons.dev/icons?i=postman,docker,github,aws)|
 
 
 ---
