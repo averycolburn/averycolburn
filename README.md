@@ -7,6 +7,8 @@
 
 # Hi there, I'm Avery!
 
+I am currently helping build **[Nebulock](https://nebulock.io/)** on the data platform team. I help build the data that powers our work on hunt first security operations.
+
 ## 👩 About Me
 
 I went to **Cornell University** and got my BS in **Electrical and Computer Engineering** with a minor in **Computer Science**.
@@ -29,6 +31,3 @@ I am a developer with proven experience building and maintaining robust, scalabl
 ## 🤝 Connect With Me
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/averycolburn/)
-
-
-</div>
